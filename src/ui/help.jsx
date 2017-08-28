@@ -169,7 +169,7 @@ hull.asUser({ "id":"123" });
                     </tr>
 
                     <tr>
-                      <td><code>queyr</code></td>
+                      <td><code>query</code></td>
                       <td><p><small>The Webhook's Query</small></p></td>
                     </tr>
 
